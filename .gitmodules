@@ -1,0 +1,6 @@
+[submodule "android-basics-kotlin-lemonade-app"]
+	path = android-basics-kotlin-lemonade-app
+	url = https://github.com/google-developer-training/android-basics-kotlin-lemonade-app.git
+[submodule "android-basics-kotlin-dogglers-app"]
+	path = android-basics-kotlin-dogglers-app
+	url = https://github.com/google-developer-training/android-basics-kotlin-dogglers-app.git
